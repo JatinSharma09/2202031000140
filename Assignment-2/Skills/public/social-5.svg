@@ -1,0 +1,31 @@
+<svg width="79" height="79" viewBox="0 0 79 79" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_69_461)" filter="url(#filter0_dd_69_461)">
+<circle cx="39.192" cy="31.1957" r="18.8924" fill="white"/>
+<path d="M31.3201 22.5367C31.3201 21.4928 31.7347 20.4917 32.4729 19.7536C33.211 19.0155 34.2121 18.6008 35.256 18.6008H39.1919V26.4726H35.256C34.2121 26.4726 33.211 26.058 32.4729 25.3198C31.7347 24.5817 31.3201 23.5806 31.3201 22.5367Z" stroke="black" stroke-width="1.57437" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M39.1919 18.6008H43.1278C43.6447 18.6008 44.1565 18.7026 44.634 18.9004C45.1115 19.0982 45.5454 19.3881 45.9109 19.7536C46.2764 20.1191 46.5663 20.553 46.7641 21.0305C46.9619 21.508 47.0637 22.0198 47.0637 22.5367C47.0637 23.0536 46.9619 23.5654 46.7641 24.0429C46.5663 24.5205 46.2764 24.9543 45.9109 25.3198C45.5454 25.6853 45.1115 25.9752 44.634 26.173C44.1565 26.3708 43.6447 26.4726 43.1278 26.4726H39.1919V18.6008Z" stroke="black" stroke-width="1.57437" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M39.1919 30.4086C39.1919 29.8917 39.2937 29.3799 39.4915 28.9024C39.6893 28.4248 39.9792 27.9909 40.3447 27.6255C40.7102 27.26 41.1441 26.9701 41.6216 26.7723C42.0991 26.5745 42.6109 26.4727 43.1278 26.4727C43.6447 26.4727 44.1565 26.5745 44.634 26.7723C45.1115 26.9701 45.5454 27.26 45.9109 27.6255C46.2764 27.9909 46.5663 28.4248 46.7641 28.9024C46.9619 29.3799 47.0637 29.8917 47.0637 30.4086C47.0637 30.9254 46.9619 31.4373 46.7641 31.9148C46.5663 32.3923 46.2764 32.8262 45.9109 33.1917C45.5454 33.5572 45.1115 33.8471 44.634 34.0449C44.1565 34.2427 43.6447 34.3445 43.1278 34.3445C42.6109 34.3445 42.0991 34.2427 41.6216 34.0449C41.1441 33.8471 40.7102 33.5572 40.3447 33.1917C39.9792 32.8262 39.6893 32.3923 39.4915 31.9148C39.2937 31.4373 39.1919 30.9254 39.1919 30.4086V30.4086Z" stroke="black" stroke-width="1.57437" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M31.3201 38.2804C31.3201 37.2365 31.7347 36.2354 32.4729 35.4973C33.211 34.7592 34.2121 34.3445 35.256 34.3445H39.1919V38.2804C39.1919 39.3243 38.7772 40.3254 38.0391 41.0635C37.301 41.8016 36.2999 42.2163 35.256 42.2163C34.2121 42.2163 33.211 41.8016 32.4729 41.0635C31.7347 40.3254 31.3201 39.3243 31.3201 38.2804Z" stroke="black" stroke-width="1.57437" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M31.3201 30.4086C31.3201 29.3647 31.7347 28.3636 32.4729 27.6255C33.211 26.8873 34.2121 26.4727 35.256 26.4727H39.1919V34.3445H35.256C34.2121 34.3445 33.211 33.9298 32.4729 33.1917C31.7347 32.4536 31.3201 31.4524 31.3201 30.4086Z" stroke="black" stroke-width="1.57437" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<filter id="filter0_dd_69_461" x="0.299561" y="0.303345" width="77.7849" height="77.7848" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feMorphology radius="4" operator="erode" in="SourceAlpha" result="effect1_dropShadow_69_461"/>
+<feOffset dy="8"/>
+<feGaussianBlur stdDeviation="12"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.0941176 0 0 0 0 0.152941 0 0 0 0 0.294118 0 0 0 0.08 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_69_461"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feMorphology radius="6" operator="erode" in="SourceAlpha" result="effect2_dropShadow_69_461"/>
+<feOffset dy="6"/>
+<feGaussianBlur stdDeviation="6"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.0941176 0 0 0 0 0.152941 0 0 0 0 0.294118 0 0 0 0.12 0"/>
+<feBlend mode="normal" in2="effect1_dropShadow_69_461" result="effect2_dropShadow_69_461"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow_69_461" result="shape"/>
+</filter>
+<clipPath id="clip0_69_461">
+<rect width="37.7848" height="37.7848" fill="white" transform="translate(20.2996 12.3033)"/>
+</clipPath>
+</defs>
+</svg>
